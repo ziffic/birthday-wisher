@@ -3,3 +3,7 @@
 /venv/
 __pycache__/
 connect.py
+<<<<<<< HEAD
+=======
+birthdays.csv
+>>>>>>> ac608368b3150b8a258a8223850825c69deebc4f
