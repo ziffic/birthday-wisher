@@ -23,4 +23,4 @@ if weekday == 3:
                             msg=f"Subject: Monday Motivation\n\n{quote}"
                             )
 
-connection.close()
+        connection.close()
